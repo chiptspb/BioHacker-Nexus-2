@@ -16,6 +16,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.chiptspb.biohackernexus",
+      "buildNumber": "30",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
