@@ -3,7 +3,7 @@
   "expo": {
     "name": "BioHacker Nexus",
     "slug": "biohacker-nexus",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "orientation": "portrait",
     "icon": "./assets/images/natively-dark.png",
     "userInterfaceStyle": "automatic",
@@ -16,7 +16,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.chiptspb.biohackernexus",
-      "buildNumber": "30",
+      "buildNumber": "31",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
